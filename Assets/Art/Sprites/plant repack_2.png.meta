@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: bdb0294b3f8544e7c9f39665d79174fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5059288821537156215
+    second: plant repack_2_0
+  - first:
+      213: -481155851137566914
+    second: plant repack_2_1
+  - first:
+      213: -2230993687724079996
+    second: plant repack_2_2
+  - first:
+      213: 6953996719706351539
+    second: plant repack_2_3
+  - first:
+      213: -6432282320174896603
+    second: plant repack_2_4
+  - first:
+      213: 2025396617090209318
+    second: plant repack_2_5
+  - first:
+      213: -6234767444677385258
+    second: plant repack_2_6
+  - first:
+      213: -4656704993882945171
+    second: plant repack_2_7
+  - first:
+      213: -5257767760641140922
+    second: plant repack_2_8
+  - first:
+      213: 4068931646192646872
+    second: plant repack_2_9
+  - first:
+      213: 5772815521826639874
+    second: plant repack_2_10
+  - first:
+      213: -3428829318375217262
+    second: plant repack_2_11
+  - first:
+      213: 6640206757319790620
+    second: plant repack_2_12
+  - first:
+      213: -681036017827101087
+    second: plant repack_2_13
+  - first:
+      213: -7583680184782730913
+    second: plant repack_2_14
+  - first:
+      213: -7225305714731169731
+    second: plant repack_2_15
+  - first:
+      213: -4316153350422364150
+    second: plant repack_2_16
+  - first:
+      213: -6897016201135569116
+    second: plant repack_2_17
+  - first:
+      213: -4265213201747774806
+    second: plant repack_2_18
+  - first:
+      213: -2414577289899080440
+    second: plant repack_2_19
+  - first:
+      213: 7409675964512375814
+    second: plant repack_2_20
+  - first:
+      213: 2036598157000817234
+    second: plant repack_2_21
+  - first:
+      213: 2159911998442897271
+    second: plant repack_2_22
+  - first:
+      213: 2372244512426116177
+    second: plant repack_2_23
+  - first:
+      213: 9119124167867075853
+    second: plant repack_2_24
+  - first:
+      213: 5352698995525720236
+    second: plant repack_2_25
+  - first:
+      213: 4157905433933470114
+    second: plant repack_2_26
+  - first:
+      213: 9076278319560565087
+    second: plant repack_2_27
+  - first:
+      213: 1295230946469815718
+    second: plant repack_2_28
+  - first:
+      213: -3613251824891313058
+    second: plant repack_2_29
+  - first:
+      213: 5704826602906099199
+    second: plant repack_2_30
+  - first:
+      213: 499596853977061204
+    second: plant repack_2_31
+  - first:
+      213: -6736036462729670540
+    second: plant repack_2_32
+  - first:
+      213: -7732276995030673507
+    second: plant repack_2_33
+  - first:
+      213: 4968757537855856715
+    second: plant repack_2_34
+  - first:
+      213: 2682464414861842637
+    second: plant repack_2_35
+  - first:
+      213: -8522723554919781568
+    second: plant repack_2_36
+  - first:
+      213: 3576551681154605124
+    second: plant repack_2_37
+  - first:
+      213: 45054919830793979
+    second: plant repack_2_38
+  - first:
+      213: -669475239723087658
+    second: plant repack_2_39
+  - first:
+      213: 6373158938402278423
+    second: plant repack_2_40
+  - first:
+      213: -6011608533763479087
+    second: plant repack_2_41
+  - first:
+      213: -6011810657706368872
+    second: plant repack_2_42
+  - first:
+      213: -1972705242896310318
+    second: plant repack_2_43
+  - first:
+      213: 1041723470343415706
+    second: plant repack_2_44
+  - first:
+      213: 8943267135864461687
+    second: plant repack_2_45
+  - first:
+      213: 2873380253393656644
+    second: plant repack_2_46
+  - first:
+      213: -3234388476892403629
+    second: plant repack_2_47
+  - first:
+      213: -7152417955334877972
+    second: plant repack_2_48
+  - first:
+      213: 7992739961591534981
+    second: plant repack_2_49
+  - first:
+      213: -6962455911844095911
+    second: plant repack_2_50
+  - first:
+      213: 5113238031642064432
+    second: plant repack_2_51
+  - first:
+      213: -5856778751480378903
+    second: plant repack_2_52
+  - first:
+      213: 7489839130086337866
+    second: plant repack_2_53
+  - first:
+      213: -8444865833467280481
+    second: plant repack_2_54
+  - first:
+      213: 6922977897059826646
+    second: plant repack_2_55
+  - first:
+      213: 9140721831693375898
+    second: plant repack_2_56
+  - first:
+      213: -4239106745484429998
+    second: plant repack_2_57
+  - first:
+      213: 2751663868931852672
+    second: plant repack_2_58
+  - first:
+      213: 3358603056648900717
+    second: plant repack_2_59
+  - first:
+      213: 8433130370298129596
+    second: plant repack_2_60
+  - first:
+      213: 7295880996861211196
+    second: plant repack_2_61
+  - first:
+      213: 5487430948662738326
+    second: plant repack_2_62
+  - first:
+      213: 850649176563197329
+    second: plant repack_2_63
+  - first:
+      213: -3936839383373819611
+    second: plant repack_2_64
+  - first:
+      213: 3925534947197632540
+    second: plant repack_2_65
+  - first:
+      213: 7104863289683837995
+    second: plant repack_2_66
+  - first:
+      213: 1254431481129026759
+    second: plant repack_2_67
+  - first:
+      213: 313708815465273196
+    second: plant repack_2_68
+  - first:
+      213: -7058841537993206425
+    second: plant repack_2_69
+  - first:
+      213: 969481793993759706
+    second: plant repack_2_70
+  - first:
+      213: 9003155313415214744
+    second: plant repack_2_71
+  - first:
+      213: -1026138681369897321
+    second: plant repack_2_72
+  - first:
+      213: -6160494210642042454
+    second: plant repack_2_73
+  - first:
+      213: -8021274352291270395
+    second: plant repack_2_74
+  - first:
+      213: -7035562028109165180
+    second: plant repack_2_75
+  - first:
+      213: -7214696781654836243
+    second: plant repack_2_76
+  - first:
+      213: -6109095502757738758
+    second: plant repack_2_77
+  - first:
+      213: 7374435486863833021
+    second: plant repack_2_78
+  - first:
+      213: -5103590388237315573
+    second: plant repack_2_79
+  - first:
+      213: -7531661387018363737
+    second: plant repack_2_80
+  - first:
+      213: 7167319008181557569
+    second: plant repack_2_81
+  - first:
+      213: -352750419904995908
+    second: plant repack_2_82
+  - first:
+      213: 5051731716391856072
+    second: plant repack_2_83
+  - first:
+      213: 3597597076870493539
+    second: plant repack_2_84
+  - first:
+      213: 8791960604930842532
+    second: plant repack_2_85
+  - first:
+      213: 3976594021592740501
+    second: plant repack_2_86
+  - first:
+      213: -7623873623605010866
+    second: plant repack_2_87
+  - first:
+      213: -5447305133374846325
+    second: plant repack_2_88
+  - first:
+      213: -4969794041879988739
+    second: plant repack_2_89
+  - first:
+      213: -5465502700353350659
+    second: plant repack_2_90
+  - first:
+      213: 4337342299718623538
+    second: plant repack_2_91
+  - first:
+      213: 8768714431912508869
+    second: plant repack_2_92
+  - first:
+      213: 1504408780689755455
+    second: plant repack_2_93
+  - first:
+      213: 8798454416445018094
+    second: plant repack_2_94
+  - first:
+      213: 6250901795344189732
+    second: plant repack_2_95
+  - first:
+      213: 892275261206525119
+    second: plant repack_2_96
+  - first:
+      213: 5787794758840711569
+    second: plant repack_2_97
+  - first:
+      213: 742265322177067507
+    second: plant repack_2_98
+  - first:
+      213: 2598778165054524545
+    second: plant repack_2_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 416
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plant repack_2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 264
+        width: 63
+        height: 147
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9835c204f9bc9c9b0800000000000000
+      internalID: -5059288821537156215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 288
+        width: 107
+        height: 128
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37385b7d479259f0800000000000000
+      internalID: -481155851137566914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 288
+        width: 89
+        height: 128
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4844113bf0be901e0800000000000000
+      internalID: -2230993687724079996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 128
+        height: 52
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b724573c2f818060800000000000000
+      internalID: 6953996719706351539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 224
+        width: 40
+        height: 112
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a23fa3f41fbb6a0800000000000000
+      internalID: -6432282320174896603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_5
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 300
+        width: 50
+        height: 41
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62690f20e77ab1c10800000000000000
+      internalID: 2025396617090209318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3a5d2da08a979a0800000000000000
+      internalID: -6234767444677385258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 226
+        width: 31
+        height: 30
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69c1d7fa7f006fb0800000000000000
+      internalID: -4656704993882945171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 229
+        width: 27
+        height: 58
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647db7b1418a807b0800000000000000
+      internalID: -5257767760641140922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 137
+        width: 84
+        height: 146
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da78aa26cfb77830800000000000000
+      internalID: 4068931646192646872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 135
+        width: 94
+        height: 137
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2009654a1292d1050800000000000000
+      internalID: 5772815521826639874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_11
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 228
+        width: 64
+        height: 57
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297ecc2d6e95a60d0800000000000000
+      internalID: -3428829318375217262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 76
+        height: 92
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10d13d4dd0c62c50800000000000000
+      internalID: 6640206757319790620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_13
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 131
+        width: 60
+        height: 90
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1664b2e99597c86f0800000000000000
+      internalID: -681036017827101087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 134
+        width: 60
+        height: 87
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f594bdf4d0b51c690800000000000000
+      internalID: -7583680184782730913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5
+        width: 126
+        height: 116
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3849d7dbbe8abb90800000000000000
+      internalID: -7225305714731169731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_16
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5
+        width: 95
+        height: 117
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0086ff4561f914c0800000000000000
+      internalID: -4316153350422364150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 5
+        width: 95
+        height: 117
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42743399e40e840a0800000000000000
+      internalID: -6897016201135569116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plant repack_2_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 5
+        width: 96
+        height: 120
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2748ae03beec4c0800000000000000
+      internalID: -4265213201747774806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
