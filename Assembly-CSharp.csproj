@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{A0B4223F-DEDE-977A-D7BD-DC9AC1339A90}</ProjectGuid>
+    <ProjectGuid>{38979D32-F35F-0C76-7042-A9AF202EC0B9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -84,91 +84,91 @@
      <Compile Include="Assets\Scripts\RubyController.cs" />
      <Compile Include="Assets\Scripts\UIHealthBar.cs" />
  <Reference Include="Unity.Timeline.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Cinemachine">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Runtime">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.VSCode.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Path.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Timeline">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Triangle.Runtime">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="PsdPlugin">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
  </Reference>
  <Reference Include="Unity.CollabProxy.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Rider.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Psdimporter.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEngineBridge.001">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Sprite.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Runtime">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Tilemap.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.SpriteShape.Runtime">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.PixelPerfect">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Animation.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
  </Reference>
  <Reference Include="com.unity.cinemachine.editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Mathematics.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="Unity.2D.Common.Editor">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.InternalAPIEditorBridge.001">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.UI">
- <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+ <HintPath>/Users/krzysztofkotlarz/Desktop/Repos/RubyAdventure2/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.1f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
