@@ -147,7 +147,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.32800436, y: 0.3739948}
+  m_Size: {x: 0.27698994, y: 0.3739948}
   m_EdgeRadius: 0
 --- !u!95 &2123080258
 Animator:
